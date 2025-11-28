@@ -44,3 +44,4 @@ radio.onReceivedString(function (cmd) {
     }
 })
 radio.setGroup(67)
+radio.setTransmitPower(7)
